@@ -1,0 +1,27 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.pass{
+    text-align: center ;
+    font-size: 40px;
+    margin-top: 50px;
+    padding-top: 10px;
+}
+
+.list{
+    display: block; 
+    text-align: center;
+    
+ }
+ .li{
+background-color: white;
+border-radius: 20px;
+margin: 20px 350px;
+height: 600px;
+font-size: 30px;
+ }
+ .but
+ {
+     font-size: 20px;
+ }
